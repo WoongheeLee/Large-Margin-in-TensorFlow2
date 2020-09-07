@@ -14,10 +14,13 @@
 ## 시각화
 * 최종 레이어 바로 이전 레이어의 latent를 시각화
 
-**그냥 l2 로스 씀**
+**그냥 cross entropy  로스 씀**
 
-![fig1](./img/l2-loss.PNG)
+![fig1](./img/cce-loss.PNG)
 
+**l2 로스 씀**
+
+![l2](./img/l2-loss.PNG)
 
 **large margin loss 적용**
 
