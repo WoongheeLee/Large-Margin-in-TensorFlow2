@@ -2,7 +2,7 @@
 
 ## 목적
 
-[Large Margin Deep Networks for Classification](https://arxiv.org/abs/1803.05598) 에서 제안한 loss 구현 확인용 노트북
+[Large Margin Deep Networks for Classification](https://arxiv.org/abs/1803.05598) 에서 제안한 loss 성능 확인용 노트북
 
 ## 방법
 * MNIST 데이터 사용
