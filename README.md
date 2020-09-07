@@ -22,3 +22,8 @@
 **large margin loss 적용**
 
 ![fig2](./img/large-margin-loss.PNG)
+
+## TO DO
+* minimum distance 인 $\gamma$ 값을 키우면 더 분리 잘 될 수 있음 
+* 더 빠르게 동작하도록 구현 (지금은 구현 잘해놔서 느림..)
+* hidden layer 에도 loss 적용
