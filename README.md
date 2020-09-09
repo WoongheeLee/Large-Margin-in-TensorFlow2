@@ -31,6 +31,7 @@
 ![fig3](./img/larger-margin-loss.PNG)
 
 ## TO DO
-* <del>minimum distance 인 <img src="https://render.githubusercontent.com/render/math?math=\gamma"> 값을 키우면 더 분리 잘 될 수 있음</del>
+* <del>minimum distance 인 <img src="https://render.githubusercontent.com/render/math?math=\gamma"> 값을 키우면 더 분리 잘 될 수 있음</del> $\rightarrow$ 꼭 그렇진 않다. 그래서 논문 저자들도 hyper parameter searching 을 함
 * 더 빠르게 동작하도록 구현 (지금은 구현 잘해놔서 느림..)
+  * 예를 들어, aggregateion operation 을 max만 하거나, top-k만 하도록
 * hidden layer 에도 loss 적용
